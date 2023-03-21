@@ -30,4 +30,8 @@
 <td>Pandas, Numpy, Matplotlib, seaborn, Scipy, Plotly</td>
 </table>
 <br/><br/>
-
+<td><a href="https://github.com/IgorYu79/Yandex.Practicum_projects/blob/main/msk_cafe/2023_03_21_14_45_project_cafe_msk.ipynb" target="_blank"><b>Исследование рынка заведений общественного питания Москвы.</b></a></td>
+<td>Исследование рынка заведений общественного питания Москвы, выявление интересных особенностей и получение результатов, которые в будущем помогут инвесторам в выборе подходящего места и типа заведения.</td>
+<td>Pandas, Numpy, Matplotlib, seaborn, JSON, Folium</td>
+</table>
+<br/><br/>
