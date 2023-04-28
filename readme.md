@@ -32,5 +32,13 @@
 <td><a href="https://github.com/IgorYu79/Yandex.Practicum_projects/blob/main/msk_cafe/2023_03_21_14_45_project_cafe_msk.ipynb" target="_blank"><b>Исследование рынка заведений общественного питания Москвы.</b></a></td>
 <td>Исследование рынка заведений общественного питания Москвы, выявление интересных особенностей и получение результатов, которые в будущем помогут инвесторам в выборе подходящего места и типа заведения.</td>
 <td>Pandas, Numpy, Matplotlib, seaborn, JSON, Folium</td>
+<tr>
+<td><a href="https://github.com/IgorYu79/Yandex.Practicum_projects/tree/main/2023_04_28_game_ads_analysis" target="_blank"><b>Исследование рекламных источников игры "Космические братья"</b></a></td>
+<td>Анализ поведения игроков в зависимости от рекламного источника</td>
+<td>Pandas, Numpy, Matplotlib, Seaborn, Scipy</td>
+<tr>
+<td><a href="https://github.com/IgorYu79/Yandex.Practicum_projects/tree/main/2023_04_28_ab_test"><b>А/В-тестирование</b></a></td>
+<td>Оценка результатов А/В-теста: проверка соответствия ТЗ и анализ результаты</td>
+<td>Pandas, Numpy, Matplotlib, Seaborn, Scipy</td>
 </table>
 <br/><br/>
